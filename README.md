@@ -1,1 +1,1 @@
-# hackerrank_java
+# hackerranksolutions_java
